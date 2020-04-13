@@ -1,0 +1,27 @@
+.container {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-evenly;
+	margin-top: 40vh;
+}
+.link {
+	color: teal;
+	text-decoration: none !important;
+	font-family: Montserrat;
+}
+.link:hover {
+	color: darkgreen;
+	text-decoration: none !important;
+	font-family: Montserrat;
+
+}
+.date {
+	color: navy;
+	text-decoration: none !important;
+	font-family: Montserrat;
+}
+.time {
+	color: green;
+	text-decoration: none !important;
+	font-family: Montserrat;
+}
